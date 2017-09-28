@@ -1,0 +1,2 @@
+class ReturnCheck:
+    pass
